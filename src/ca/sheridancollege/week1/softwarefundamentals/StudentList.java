@@ -29,9 +29,7 @@ public class StudentList {
             System.out.println("Student name is: " + sList[i].getName());
           
         }
-        
-        
-        
+         
     }
     
 }
